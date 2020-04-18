@@ -1,0 +1,38 @@
+body {
+    background-color: mintcream;
+    margin: auto;
+    width: auto;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;    
+    background-position: center;
+}
+header{ 
+    text-align: center;
+}
+footer{ 
+    text-align: center;
+}
+h3{
+    background-color: yellowgreen;
+}
+
+ul{
+    text-align: left;
+    font-size: small;
+}
+
+li{ 
+    background-color: bisque;
+    display: inline;
+    text-align: left;
+}
+
+h1{
+    background-image: url("C:/Users/owner/pictures/dwfile/alg.png");
+    height: 15vh;
+}
+
+h2{
+    background-color: coral;
+}
